@@ -1,0 +1,4 @@
+What we are building:
+A Student Grade Tracker REST API — perfect for your VidyaAI background and Sri Lankan education context.
+The API will have:
+EndpointMethodWhat it does/studentsGETGet all students/studentsPOSTAdd a new student/students/:idGETGet one student/students/:idPUTUpdate a student/students/:idDELETEDelete a student
